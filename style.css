@@ -167,7 +167,7 @@ p{
         top: 15%;
     }
     #left{
-        left: 10%;
+        left: 12%;
     }
     #right{
         left: 70%;
@@ -180,6 +180,9 @@ p{
 @media(max-width: 400px){
     #left,#right{
         top: 13%;
+    }
+    #left{
+        left: 12%;
     }
     #right{
         left: 70%;
