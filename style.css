@@ -170,7 +170,7 @@ p{
         left: 10%;
     }
     #right{
-        left: 67%;
+        left: 70%;
     }
     .dot{
         width: 10px;
@@ -180,6 +180,9 @@ p{
 @media(max-width: 400px){
     #left,#right{
         top: 13%;
+    }
+    #right{
+        left: 70%;
     }
      .dot{
         width: 10px;
