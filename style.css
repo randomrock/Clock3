@@ -172,6 +172,7 @@ p{
     .dot{
         width: 13px;
         height: 13px;
+        left: 15%;
     }
 }
 @media(max-width: 540px){
@@ -181,7 +182,7 @@ p{
         top: 15%;
     }
     #left{
-        left: 12%;
+        left: 15%;
     }
     #right{
         left: 70%;
@@ -189,6 +190,7 @@ p{
     .dot{
         width: 10px;
         height: 10px;
+        left: 12.5%;
     }
 }
 @media(max-width: 400px){
@@ -196,7 +198,7 @@ p{
         top: 13%;
     }
     #left{
-        left: 12%;
+        left: 13%;
     }
     #right{
         left: 70%;
@@ -204,6 +206,7 @@ p{
      .dot{
         width: 10px;
         height: 10px;
+         left: 12.5%;
     }
 }
 
