@@ -156,8 +156,8 @@ p{
         left: 8%;
     }
     .dot{
-        width: 15px;
-        height: 15px;
+        width: 13px;
+        height: 13px;
     }
 }
 @media(max-width: 540px){
@@ -173,15 +173,19 @@ p{
         left: 67%;
     }
     .dot{
-        width: 13px;
-        height: 13px;
+        width: 15px;
+        height: 15px;
     }
 }
 @media(max-width: 400px){
     #left,#right{
         top: 13%;
     }
+     .dot{
+        width: 13px;
+        height: 1px;
+    }
 }
 
     
-}
+
