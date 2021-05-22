@@ -172,6 +172,11 @@ p{
     #right{
         left: 67%;
     }
+    .dot{
+        width: 13px;
+        height: 13px;
+    }
+}
 @media(max-width: 400px){
     #left,#right{
         top: 13%;
